@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle reverse",
+        "command": "reverse:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "reverse",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "reverse:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
