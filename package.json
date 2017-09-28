@@ -2,7 +2,7 @@
   "name": "reverse",
   "main": "./lib/reverse",
   "version": "0.0.0",
-  "description": "To pass a reverse string in a toggle",
+  "description": "Atom plugin to pass a reverse string in a toggle",
   "keywords": [
   ],
   "activationCommands": {
